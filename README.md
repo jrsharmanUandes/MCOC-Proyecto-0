@@ -13,7 +13,7 @@ Perdida de Significancia en Algoritmo de Arquímedes para el cálculo del númer
 
   Arquímedes demostró que el perímetro de una circunferencia se relaciona con el diámetro de la misma forma que el área con el cuadrado del radio. Sin poder calcularlo completamente, dejó explicaciones de como se podría calcular utilizando un polígono inscrito y uno transcrito mejorando la exactitud mediante el aumento de secciones de estos. Él llegó a calcular hasta un polígono de 96 lados, dejando una de las inecuaciones más antiguas conocidas, con 3,140845... < π < 3,1428571...
   Hoy, por medios computacionales, se puede calcular con mucha mayor exactitud llegando a errores minimos, entmínimoso la geometría básica del problema: 
-https://github.com/jrsharmanUandes/MCOC-Proyecto-0/blob/master/Calculo%20de%20Pi.png
+![Cálculo de pi según Arquímedes](https://github.com/jrsharmanUandes/MCOC-Proyecto-0/blob/master/Calculo%20de%20Pi.png)
 
 donde s_n = AB es un lado de una figura inscrita en un círculo unitario, MA = MB = MC = 1
 con esto para el duangulo s_2 = 2, para un triangulo s_3 = raiz(3), para un cuadrado s_4 = raiz(2) o para un hexágono s_6 = 1
@@ -96,4 +96,4 @@ Acá se puede reconocer claramente en un comienzo la convergencia a π, pero tra
 De esta forma, ya con el polígono de 268435456 lados se alcanza una exactitud de 18 decimales, la aproximación entrega 0,0 en la segúnda columna.
 
 En el siguiente gráfico se puede observar la comparación de la tendencia hacia pi sin conciderar el ajuste y como el error se acumula y tambien haciendo el ajuste para evitar la perdida por significancia.
-https://github.com/jrsharmanUandes/MCOC-Proyecto-0/blob/master/loss-of-significance.png
+![Tabla comparativa](https://github.com/jrsharmanUandes/MCOC-Proyecto-0/blob/master/loss-of-significance.png)
