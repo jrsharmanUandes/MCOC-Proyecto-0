@@ -98,4 +98,4 @@ Acá se puede reconocer claramente en un comienzo la convergencia a π, pero tra
 De esta forma, ya con el polígono de 268435456 lados se alcanza una exactitud de 18 decimales, la aproximación entrega 0,0 en la segúnda columna.
 
 En el siguiente gráfico se puede observar la comparación de la tendencia hacia pi sin conciderar el ajuste y como el error se acumula y tambien haciendo el ajuste para evitar la perdida por significancia.
-![Tabla comparativa](https://github.com/jrsharmanUandes/MCOC-Proyecto-0/blob/master/loss-of-significance.png)
+
