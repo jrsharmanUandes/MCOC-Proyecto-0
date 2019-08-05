@@ -99,3 +99,4 @@ De esta forma, ya con el polígono de 268435456 lados se alcanza una exactitud d
 
 En el siguiente gráfico se puede observar la comparación de la tendencia hacia pi sin conciderar el ajuste y como el error se acumula y tambien haciendo el ajuste para evitar la perdida por significancia.
 
+![Gráfico como se comporta error por pérdida de Significancia](https://github.com/jrsharmanUandes/MCOC-Proyecto-0/blob/master/loss-of-significance.png)
